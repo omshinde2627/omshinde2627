@@ -30,7 +30,7 @@
   <a href="mailto:omshinde27614@gmail.com" title="Mail me">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://omshinde00.netlify.app/" title="Portfolio">
+  <a href="https://heyomshinde.vercel.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
